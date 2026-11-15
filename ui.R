@@ -2,7 +2,7 @@ library(shiny)
 
 fluidPage(
   #  Application title
-  titlePanel("Prevalance Rates Example"),
+  titlePanel("Prevalance Rates Example"),1 IEEE Xplore Full-Text PDF: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8922703&tag=1 (accessed 27 Oct 2021).
   
   # Sidebar with sliders that demonstrate various available values
   
